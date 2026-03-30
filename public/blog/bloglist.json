@@ -12,13 +12,6 @@
       "url":"/blog/2018-04-06"
     },
     {
-      "date": "2019-10-18",
-      "title": "Nginx转发TCP流，获取真实IP",
-      "type":"TECH_BLOG",
-      "tag":["Nginx"],
-      "url":"/blog/2019-10-18"
-    },
-    {
       "date": "2020-05-28",
       "title": "全国首都及国内省会地理坐标集合",
       "type":"TECH_BLOG",
@@ -48,7 +41,7 @@
     },
     {
       "date": "2021-03-16",
-      "title": "Nginx：解除跨域，https配置，负载均衡",
+      "title": "Nginx-各类配置",
       "type":"TECH_BLOG",
       "tag":["Nginx"],
       "url":"/blog/2021-03-16"
